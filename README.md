@@ -1,4 +1,4 @@
-# Alaska-squid
+# alaska-squid
 Supporting Information for
 
 Rapid range expansion of a marine ectotherm reveals the demographic and ecological consequences of short-term variability in seawater temperature and dissolved oxygen
