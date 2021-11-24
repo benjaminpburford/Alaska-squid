@@ -14,4 +14,6 @@ Benjamin P. Burford1,2*, Lauren A. Wild3, Richard Schwarz4,5, Ellen M. Chenoweth
 
 Supporting code S1
 
-This R script includes all code necessary to reproduce results using Data S1 (citation xxxxx).
+This R script includes all code necessary to reproduce results using RangeExpansion_DataS1_noREADME:
+
+Burford, B. P. 2021. Data from: Rapid range expansion of a marine ectotherm reveals the demographic and ecological consequences of short-term variability in seawater temperature and dissolved oxygen. American Naturalist, Dryad Digital Repository, https://doi.org/10.5061/dryad.ksn02v75h
